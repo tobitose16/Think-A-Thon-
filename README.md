@@ -39,14 +39,3 @@ The Smart Booking App provides a seamless digital booking experience with real-t
 * Recommendation engine for suggesting slots/services
 * AI-based form auto-fill & user intent understanding
 
----
-
-### ✅ Notes
-
-* This template follows **Agile methodology** with time-boxed milestones.
-* Each milestone is designed to be completed in **30 minutes**.
-* Suitable for **hackathons, mini-projects, and academic reviews**.
-
----
-
-📌 *You can directly use this README format for hackathons, Think-a-thons, or college project submissions.*
